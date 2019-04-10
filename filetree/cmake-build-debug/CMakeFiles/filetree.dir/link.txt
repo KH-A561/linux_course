@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/filetree.dir/main.cpp.o  -o filetree 
